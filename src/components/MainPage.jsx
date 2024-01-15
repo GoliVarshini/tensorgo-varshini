@@ -33,7 +33,7 @@ function CenteredTitleWithScroll() {
     "price" : "INR 3999",
   }
   const plus = {
-    "title": "Standard",
+    "title": "Plus",
     "description": "One Year ,10 User",
     "price" : "INR 4999",
   }
