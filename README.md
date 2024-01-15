@@ -8,4 +8,8 @@ email : varshini@gmail.com
 password : varshini
 
 **user login credentials**
-email : varshini
+email : golivarshini2002@gmail.com
+password : varshini@18
+
+
+//You can add new users by logging into admin credentails and register a new user
