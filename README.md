@@ -1,15 +1,15 @@
-**Commands**
-npm install       //To install dependencies
-npm start        // To run the application
+**Commands**&nbsp;
+npm install       //To install dependencies &nbsp;
+npm start        // To run the application &nbsp;
 
 
-**admin login credentials**
-email : varshini@gmail.com
-password : varshini
+**admin login credentials** &nbsp;
+email : varshini@gmail.com &nbsp;
+password : varshini  &nbsp;
 
-**user login credentials**
-email : golivarshini2002@gmail.com
-password : varshini@18
+**user login credentials** &nbsp;
+email : golivarshini2002@gmail.com &nbsp;
+password : varshini@18  &nbsp;
 
 
-//You can add new users by logging into admin credentails and register a new user
+//You can add new users by logging into admin credentails and register a new user  &nbsp;
