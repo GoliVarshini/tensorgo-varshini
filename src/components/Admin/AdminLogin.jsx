@@ -6,9 +6,9 @@ import AdminDashboard from './AdminDashboard';
 const users = [
     {
         "id": 1,
-        "FirstName": "AbhiVardhan",
-        "email": "abhi@gmail.com",
-        "password": "abhi",
+        "FirstName": "varshini",
+        "email": "varshini@gmail.com",
+        "password": "varshini18",
     }
 ]
 const AdminLogin = () => {
