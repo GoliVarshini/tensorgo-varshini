@@ -10,7 +10,7 @@ password : varshini18  &nbsp;
 
 **user login credentials** &nbsp;
 email : golivarshini2002@gmail.com &nbsp;
-password : varshini@18  &nbsp;
+password : Varshini@18  &nbsp;
 
 
 //You can add new users by logging into admin credentails and register a new user  &nbsp;
